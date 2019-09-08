@@ -17,7 +17,7 @@ the documents:
 labels.zip (containing the labels for the images)
 project.zip (our handmade image test file)
 BKA (the code)
-Report (the document containing our 15-20 page report)
+Book Cover Assignment (the document containing our 15-20 page report)
 Book Covers Slides (the ppt for presenting our findings)
 
 should also be found in this repository. 
